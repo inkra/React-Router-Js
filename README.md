@@ -2,8 +2,9 @@
 React Router &amp; CRUD SPP APP
 
 <h1>Screenshot Project<h1>
+  
+![dashhboardd](https://user-images.githubusercontent.com/65702027/155259895-e90148c2-1fd2-443d-9238-860e66aa92da.PNG)
 
-![dashboardpay](https://user-images.githubusercontent.com/65702027/155258570-06437047-c710-484a-b733-d6ecba211c9b.PNG)
 
 ![Listsiswapay](https://user-images.githubusercontent.com/65702027/155258575-4b61e765-9033-4b05-8365-50d14a472a38.PNG)
 
